@@ -2,6 +2,19 @@
 # Created by https://www.toptal.com/developers/gitignore/api/cmake,c++,c
 # Edit at https://www.toptal.com/developers/gitignore?templates=cmake,c++,c
 
+### Folders ###
+HELP.md
+target/
+!**/src/com/company/**
+**/out/**
+.DS_Store
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
 ### C ###
 # Prerequisites
 *.d
